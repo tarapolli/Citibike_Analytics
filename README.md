@@ -19,7 +19,7 @@ ANALYSIS:  The summer months of May, June, and July would typically see an uptic
 
 Furthermore, the busiest hours of the day peak around 5:00pm; a typical commuting hour. The busiest days of the week for both Customers and Subscribers are Saturday and Sundays. Since tourism was virtually halted because non-residents were restricted from entering the state, it is possible that non-subscribing New Yorkers were using bikes on weekends to do their errands.
 
-Phenomena:  Bottom 10 Start Stations:  none in May.  You will notice the lack of data in the “Bottom 10 Stations:  Start Point” bar graph.  There is no data for May. If you look at the end point for these bottom ten stations, many of them are located in Jersey City. Very few trips begin in the state of New York and end in the state of New Jersey, especially due to the state restrictions during the pandemic.  Also note that the June and July end stations have only 1 listed! You may filter station names on this dashboard to confirm.
+Phenomena:  Bottom 10 Start Stations:  none in May.  You will notice the lack of data in the “Bottom 10 Stations:  Start Point” bar graph.  There is no data for May. If you look at the end point for these bottom ten stations, many of them are located in Jersey City. Very few trips begin in the state of New York and end in the state of New Jersey, especially due to the state restrictions during the pandemic.  Also note that the June and July end stations have only 1 statoin listed! You may filter station names on this dashboard to confirm.
 
 ![image](https://user-images.githubusercontent.com/73482295/118375320-0728d780-b58f-11eb-826a-cef106c6b510.png)
 
