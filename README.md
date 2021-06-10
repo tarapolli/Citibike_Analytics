@@ -9,7 +9,7 @@ FOCUS & STUDY QUESTIONS:   New York City was greatly affected at the onset of th
 * Did tourism come to a halt?  (I hypothesized that tourists should be classified as ‘customer’ user types where they rent bikes for 1-3 days, whereas local New Yorkers should be classified as ‘subscriber’ user types by holding an annual pass)
 * Did New Yorkers stop using the bikes for fear of the virus being on the handlebar surface, for example?
 * When are the busiest days of week and hours of day by user type?
-* What and where are the top 10 stations in the city for starting your journey?
+* What and where are the top 10 stations in the city for starting a journey?
 * What  and where are the top 10 stations for ending a journey?
 * What are the bottom 10 stations for starting a journey?
 * What are the bottom 10 stations for ending a journey?
