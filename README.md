@@ -3,7 +3,7 @@ TABLEAU VISUALIZATION:  https://public.tableau.com/profile/tara.polli#!/vizhome/
 
 PROJECT:  Analyze the NYC Citibike Program using any datasets provided, then create a dashboard to provide questions and answers for city officials. 
 
-PROCESS:  After downloading the datasets that I wanted to analyze (May – July 2020), the next step was to clean the data. I started to do so in Pandas.  But without visualizing the anomalies yet (in Tableau), I decided to create a union (in Tableau) so I could visualize it before eliminating any data that may identify trends, anomalies, etc.
+PROCESS:  After downloading the datasets that I wanted to analyze (May – July 2020), the next step was to clean the data. I started to do so in Pandas.  But without visualizing the anomalies yet (in Tableau), I decided to create a union (in Tableau) so I could visualize it before eliminating any data that may identify trends, anomalies, etc..
 
 FOCUS & STUDY QUESTIONS:   New York City was greatly affected at the onset of the COVID-19 pandemic, so I wanted to look for trends such as:
 * Did tourism come to a halt?  (I hypothesized that tourists should be classified as ‘customer’ user types where they rent bikes for 1-3 days, whereas local New Yorkers should be classified as ‘subscriber’ user types by holding an annual pass)
