@@ -1,7 +1,7 @@
 
 TABLEAU VISUALIZATION:  https://public.tableau.com/profile/tara.polli#!/vizhome/Citibike_2020_May_thru_July/Story1
 
-ASSIGNMENT:  Analyze the NYC Citibike Program using any datasets provided, then create a dashboard to provide questions and answers for city officials. 
+PROJECT:  Analyze the NYC Citibike Program using any datasets provided, then create a dashboard to provide questions and answers for city officials. 
 
 PROCESS:  After downloading the datasets that I wanted to analyze (May – July 2020), the next step was to clean the data. I started to do so in Pandas.  But without visualizing the anomalies yet (in Tableau), I decided to create a union (in Tableau) so I could visualize it before eliminating any data that may identify trends, anomalies, etc.
 
